@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jose Roberto Juarez Apale! 👋</h2>
 
-<p><em>Software Enginner at <a href="https://zongolica.tecnm.mx/TecNM/">University of TECNM Zongolica</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer at <a href="https://es.mediomelon.mx/">Medio Melon</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Developer at <a href="https://zongolica.tecnm.mx/TecNM/">University of TECNM Zongolica</a>
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
