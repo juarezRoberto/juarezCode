@@ -26,6 +26,6 @@ const me = {
         misc: ["Firebase""]
     },
     architecture: ["Single page applications"],
-    currentFocus: "Learning Backend",
+    currentFocus: "Learning Jetpck Compose",
 };
 ```
